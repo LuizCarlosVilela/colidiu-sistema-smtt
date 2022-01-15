@@ -18,7 +18,7 @@
 <h3 align=center>
   
 :books:
-***Sistema Colidiu SMTT*** is a project to filter the data of the ombudsman's registered in SMTT.
+***Sistema Colidiu SMTT*** is a project aimed at improving the administration of accidents in the city of Maceió
 </h3>
 
 <h2 align=center>
@@ -32,7 +32,7 @@
 ## **_:rocket: OBJECTIVE_**
 
 <p align=justify> 
-The main objective of the project is to display the data of the registered ombudsman's office in the SMTT system, making it possible to graphically visualize the information saved and filter this data based on dates and/or responsible board. JavaScript was used as a programming language along with React JS, HTML and CSS for the overall development of the platform.
+The main objective of Sistema Colidiu SMTT is a project aimed at improving the administration of accidents in the city of Maceió. JavaScript was used as a programming language along with React JS, HTML and CSS for the overall development of the platform.
 </p>
 
 ## **_:computer: TECHNOLOGIES_**
